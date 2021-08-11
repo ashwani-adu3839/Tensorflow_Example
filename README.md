@@ -9,6 +9,6 @@ We have constucted different sets of datasets for classification:
 
 These datasets have been classified using dense network of the tensorflow API. We then used mlxtend library to generate the boundaries for different classifcation class.
 
-| col 1      | col 2      |
+| Concentric Circle      | Half Moon      |
 |------------|-------------|
-| <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Concentric_circle.png" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
+| <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Concentric_circle.png" width="250"> | <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Half_moon.png" width="250"> |
