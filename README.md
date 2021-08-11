@@ -11,4 +11,4 @@ These datasets have been classified using dense network of the tensorflow API. W
 
 | Concentric Circle      | Half Moon      |
 |------------|-------------|
-| <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Concentric_circle.png" width="250"> | <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Half_moon.png" width="250"> |
+| <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Concentric_circle.png" width="400"> | <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Half_moon.png" width="400"> |
