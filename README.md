@@ -1,2 +1,2 @@
 # Machine Learning
-Classification and regression Deep learning codes in TensorFlow API.
+Classification, regression and other machine/Deep learning task using python, Scikit-learn and TensorFlow API.
